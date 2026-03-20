@@ -90,6 +90,6 @@ Genom att skriva under/bekräfta godkänner vi att arbeta enligt detta kontrakt.
 * **Medlem 2:** Victor
 * **Medlem 3:** Gustav
 * **Medlem 4:** [Namn]
-
+* **Medlem 5:** Alex
 ---
 *Detta kontrakt kan revideras vid varje sprint-retrospective om gruppen anser att det behövs.*
