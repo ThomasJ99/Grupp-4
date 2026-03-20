@@ -88,7 +88,7 @@ Genom att skriva under/bekräfta godkänner vi att arbeta enligt detta kontrakt.
 
 * **Medlem 1:** Thomas
 * **Medlem 2:** Victor
-* **Medlem 3:** [Namn]
+* **Medlem 3:** Gustav
 * **Medlem 4:** [Namn]
 
 ---
